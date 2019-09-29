@@ -1,0 +1,39 @@
+{
+  "name": "smikkelbeertjes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SmikkelBeertjes, JustJoran",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "canvas-constructor": "^1.1.2",
+    "chalk": "^2.4.1",
+    "cookie-parser": "^1.4.3",
+    "discord-eco": "0.0.10",
+    "discord-rpc": "^3.0.1",
+    "discord.js": "^11.4.2",
+    "discordtools": "^2.0.48",
+    "eslint": "^5.7.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "fortnite": "^4.1.1",
+    "fs": "0.0.1-security",
+    "fs-nextra": "^0.3.7",
+    "google-translate-api": "^2.3.0",
+    "humanize-duration": "^3.15.3",
+    "minimist": "^1.2.0",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "parse-ms": "^2.0.0",
+    "quick.hook": "^1.4.2",
+    "request": "^2.88.0",
+    "snekfetch": "^4.0.4",
+    "superagent": "^4.0.0-beta.5",
+    "weather-js": "^2.0.0"
+  }
+}
