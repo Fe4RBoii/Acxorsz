@@ -122,4 +122,4 @@ if (message.content.startsWith(lol + "reply")) {
 }
 });
 
-client.login(botsettings.token);
+client.login(process.env.TOKEN);
